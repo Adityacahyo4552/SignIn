@@ -3,9 +3,9 @@
   <br/>
   <br/>
 
-  <h2 align="center">navbar-responsive - Responsive Navbar Website</h2>
+  <h2 align="center">SignIn & SignUp - Responsive Website</h2>
   
-  navbar-responsive is a fully responsive navbar website, <br/>Responsive for all devices, built using HTML, CSS, and JavaScript.
+  Thi is a SignIn & SignUp responsive website, <br/>Responsive for all devices, built using HTML, CSS, and JavaScript.
 
   <a href="https://adityacahyo4552.github.io/SignIn/"><strong>~ Live Demo ~</strong></a>
 </div>
@@ -14,7 +14,7 @@
 
 ### Demo Screenshot
 
-![navbar-responsive Desktop Demo](./readme-images/PrevDesktop_3.png "Desktop Demo")
+![SignIn Desktop Demo](./readme-images/PrevDesktop_3.png "Desktop Demo")
 
 ### Prerequisites
 
@@ -24,7 +24,7 @@ Before you begin, ensure you have met the following requirements:
 
 ### Run Locally
 
-To run **navbar-responsive** locally, run this command on your git bash:
+To run **SignIn & SignUp** locally, run this command on your git bash:
 
 Linux and macOS:
 
